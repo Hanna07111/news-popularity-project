@@ -20,7 +20,7 @@ Predicting the Popularity of Online News
 - **Results/Findings**: The ensemble of LightGBM, XGBoost, and CatBoost achieved the best performance  
 
 ## 🙋 Contribution
-- Conducted the overall data preprocessing process  
+- Conducted the overall data preprocessing process ([Full code](https://colab.research.google.com/drive/1_I_xYpz4h1oyPrzOR940wh2bv6DHOW2N?usp=sharing))
 - Performed baseline experiments using Decision Tree  
 - Explored various ensemble approaches based on XGBoost
 - Prepared the final report and presentation slides 
