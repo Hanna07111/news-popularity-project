@@ -4,7 +4,7 @@
 Predicting the Popularity of Online News
 
 ## 📌 Overview
-- **Course**: Pattern Recognition (2025 spring, 9th semester)
+- **Course**: Pattern Recognition (2025 spring, 8th semester)
 - **Objective**: Develop a binary classification model to predict whether an online news article will be popular.
 - **Duration**: 2025.04 ~ 2025.07 
 - **Individaul/Team**: Team 
